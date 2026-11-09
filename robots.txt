@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miraminbagheri.github.io/sitemap.xml
